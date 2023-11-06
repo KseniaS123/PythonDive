@@ -28,4 +28,4 @@ def division(a, b):
 
 if __name__ == '__main__':
     # print(f'{division(15, 4) = }')
-    print(f'{division(15, 0) == }')
+    print(f'{division(15, 0) = }')
